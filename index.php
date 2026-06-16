@@ -1159,7 +1159,7 @@
         <div class="container">
             <!-- Brand -->
             <a class="navbar-brand text-decoration-none" href="#">
-                <span class="navbar-brand-text"><img src="./assets/img/logo.png" alt="Logo SMKN Ihya Ulummudin" width="80px"> KARIR SMKNIU</span>
+                <span class="navbar-brand-text"><img src="./logo.png" alt="Logo SMKN Ihya Ulummudin" width="80px"> KARIR SMKNIU</span>
                 <!-- <span class="navbar-brand-sub">Singojuruh · Banyuwangi</span> -->
             </a>
 
